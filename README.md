@@ -17,10 +17,10 @@ The course introduces fundamental programming concepts using Python. Topics cove
 ## 🗂️ Directory Structure
 
 Each folder represents a weekly topic or task grouping:
-python-basic/
-├── statments_unit3/
-├── functions_unit4/
-├── error_and_exceptions_unit5/
-├── modules_and_packages_unit6/
+python-basic/<br>
+├── statments_unit3/<br>
+├── functions_unit4/<br>
+├── error_and_exceptions_unit5/<br>
+├── modules_and_packages_unit6/<br>
 
 
